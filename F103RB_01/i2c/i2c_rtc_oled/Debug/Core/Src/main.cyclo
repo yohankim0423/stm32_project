@@ -1,0 +1,12 @@
+../Core/Src/main.c:71:16:bcd2dec	1
+../Core/Src/main.c:76:16:dec2bcd	1
+../Core/Src/main.c:81:13:DS3231_SetTime	1
+../Core/Src/main.c:90:13:DS3231_SetDate	1
+../Core/Src/main.c:102:13:DS3231_GetTime	2
+../Core/Src/main.c:113:13:DS3231_GetDate	2
+../Core/Src/main.c:135:5:main	3
+../Core/Src/main.c:204:6:SystemClock_Config	3
+../Core/Src/main.c:244:13:MX_I2C1_Init	2
+../Core/Src/main.c:278:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:311:13:MX_GPIO_Init	1
+../Core/Src/main.c:357:6:Error_Handler	1
